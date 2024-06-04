@@ -1,0 +1,17 @@
+/* src/components/Button.css */
+.button {
+    flex: 1;
+    margin: 5px;
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #555;
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  .button:hover {
+    background-color: #777;
+  }
